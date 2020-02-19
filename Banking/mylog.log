@@ -1,3 +1,0 @@
-15 Feb 2020 15:41:56,553 INFO main com.cg.iter.dao.BankingDaoImpl - Deposited amount: 500.0
-15 Feb 2020 16:08:35,556 INFO main com.cg.iter.dao.BankingDaoImpl - Deposited amount: 10000.0
-15 Feb 2020 16:08:40,776 INFO main com.cg.iter.dao.BankingDaoImpl - Withdrew amount: 5000.0
